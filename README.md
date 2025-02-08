@@ -1,6 +1,3 @@
-# Deepfake-image-classification
-This is the project based on the classification based on deepfake images using python
-# Deepfake Image and Expression Swap Detection
 
 ## Overview
 This project focuses on detecting deepfake images and expression swaps using machine learning models. The primary aim is to develop an accurate and robust solution capable of distinguishing real images from deepfake ones. The model incorporates a hybrid architecture combining CNN and LSTM to capture both spatial and temporal features.
